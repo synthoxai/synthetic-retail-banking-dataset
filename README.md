@@ -1,4 +1,5 @@
 # Synthetic Retail Banking Transactions Dataset
+> ⚠️ This dataset is fully synthetic and contains no real customer data.
 
 ## Overview
 This project provides a **privacy-preserving synthetic banking dataset** designed for
