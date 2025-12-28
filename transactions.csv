@@ -1,2 +1,2 @@
 transaction_id,customer_id,transaction_date,amount,transaction_type,channel,merchant_category,is_fraud,hour,amount_log,is_night
-50000,950,2025-07-28 13:59:41.558580,2358.27,Payment,POS,Groceries,0,13,7.766107528135829,False
+50000,2771,2025-04-10 02:13:52.742611,11392.89,Withdrawal,POS,Groceries,0,2,9.340832525789772,True
